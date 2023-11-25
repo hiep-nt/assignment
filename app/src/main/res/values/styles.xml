@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SearchTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="hintTextColor">#fff</item>
+    </style>
+
+    <style name="SearchTextInputStyle" parent="Widget.Material3.TextInputEditText.OutlinedBox.Dense">
+        <item name="hintTextColor">#80FFFFFF</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+</resources>
